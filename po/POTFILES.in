@@ -1,0 +1,5 @@
+src/MainWindow.cc
+src/Board.cc
+src/Engine.cc
+src/Pgnfile.cc
+data/gmchess.glade
